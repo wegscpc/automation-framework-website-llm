@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.runners.CucumberTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.34 s -- in com.automation.runners.CucumberTestRunner
